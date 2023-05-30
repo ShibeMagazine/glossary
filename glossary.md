@@ -103,7 +103,10 @@ J
 K
 -
 
-### Know Your Customer
+### Know Your Customer 
+
+Also known as KYC, Know Your Customer refers to a set of processes and procedures implemented by businesses and financial institutions to verify and understand the identity, background, and financial activities of their customers.
+
 ### Koinu
 
 ### KYC
