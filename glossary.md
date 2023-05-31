@@ -42,6 +42,8 @@ See 'Centraiized Exchange'
 ### Circulating Supply
 ### Codebase
 ### Coin
+A digital or virtual form of currency that operates on a blockchain or decentralized ledger technology.
+
 ### Coinbase
 ### CoinDays
 ### CoinDays Destroyed
