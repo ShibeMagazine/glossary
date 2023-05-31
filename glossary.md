@@ -28,6 +28,8 @@ B
 ### Blockchain Explorer
 ### Block Header
 ### Block Size
+The maximum amount of data that can be contained within a single block of a blockchain.
+
 ### Block Time
 
 <!--C Section-->
