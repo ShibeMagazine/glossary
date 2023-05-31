@@ -1,16 +1,16 @@
 [
   {
     "language": "en-US",
-    "category_tags": ["noun", "science"],
-    "term": "Gravity",
-    "pronunciation": "/ˈɡrævɪti/",
-    "definition": "The force by which a planet or other body draws objects toward its center.",
+    "category_tags": ["colloquial", "phrase"],
+    "term": "Know Your Customer",
+    "pronunciation": "/nəʊ jɔːr ˈkʌstəmər/",
+    "definition": "Also known as KYC, Know Your Customer refers to a set of processes and procedures implemented by businesses and financial institutions to verify and understand the identity, background, and financial activities of their customers.",
     "last_updated": "2023-05-30",
     "repository": {
       "permalink": "https://github.com/ShibeMagazine/glossary",
-      "commit": "a1b2c3d",
+      "commit": "fece19c",
       "license": "CC-BY-SA 4.0",
-      "wiki_permalink": "https://example.com/wiki"
+      "wiki_permalink": ""
     }
   },
   {
