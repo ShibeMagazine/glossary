@@ -48,6 +48,8 @@ See 'Centraiized Exchange'
 ### Cold Wallet
 ### Coloured Coin
 ### Cryptocurrency
+A digital or virtual form of currency that relies on cryptography to secure financial transactions, control the creation of new units, and verify the transfer of assets.
+
 ### Currency
 ### Custody
 
