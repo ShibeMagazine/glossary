@@ -40,5 +40,19 @@
       "license": "CC-BY-SA 4.0",
       "wiki_permalink": "https://github.com/ShibeMagazine/glossary/wiki/Coin"
     }
-  }
+  },
+  {
+    "language": "en-US",
+    "category_tags": ["noun", "blockchain"],
+    "term": "Block Size",
+    "pronunciation": "/blɑk saɪz/",
+    "definition": "Block size refers to the maximum amount of data that can be contained within a single block of a blockchain.",
+    "last_updated": "2023-05-31",
+    "repository": {
+      "permalink": "https://github.com/ShibeMagazine/glossary",
+      "commit": "7f342f2",
+      "license": "CC-BY-SA 4.0",
+      "wiki_permalink": "https://github.com/ShibeMagazine/glossary/wiki/Block-Size"
+    }
+  },
 ]
