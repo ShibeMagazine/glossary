@@ -1,3 +1,5 @@
+//This indexing technique may work in tandem with or instead of exif metadata written onto ShareCard.avif files.
+
 [
   {
     "language": "en-US",
