@@ -29,16 +29,16 @@
   },
   {
     "language": "en-US",
-    "category_tags": ["adjective", "technology"],
-    "term": "Innovative",
-    "pronunciation": "/ˈɪnəveɪtɪv/",
-    "definition": "Introducing new ideas, methods, or technologies.",
-    "last_updated": "2023-05-28",
+    "category_tags": ["noun", "crypto"],
+    "term": "Coin",
+    "pronunciation": "/kɔɪn/",
+    "definition": "A digital or virtual form of currency that operates on a blockchain or decentralized ledger technology.",
+    "last_updated": "2023-05-31",
     "repository": {
       "permalink": "https://github.com/ShibeMagazine/glossary",
       "commit": "f7e6b3a",
       "license": "CC-BY-SA 4.0",
-      "wiki_permalink": "https://example.com/wiki"
+      "wiki_permalink": "https://github.com/ShibeMagazine/glossary/wiki/Coin"
     }
   }
 ]
