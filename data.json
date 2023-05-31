@@ -1,7 +1,7 @@
 [
   {
     "language": "en-US",
-    "category_tags": ["colloquial", "phrase"],
+    "category_tags": ["phrase", "regulation"],
     "term": "Know Your Customer",
     "pronunciation": "/nəʊ jɔːr ˈkʌstəmər/",
     "definition": "Also known as KYC, Know Your Customer refers to a set of processes and procedures implemented by businesses and financial institutions to verify and understand the identity, background, and financial activities of their customers.",
@@ -10,21 +10,21 @@
       "permalink": "https://github.com/ShibeMagazine/glossary",
       "commit": "fece19c",
       "license": "CC-BY-SA 4.0",
-      "wiki_permalink": ""
+      "wiki_permalink": "https://github.com/ShibeMagazine/glossary/wiki/Know-Your-Customer"
     }
   },
   {
     "language": "en-US",
-    "category_tags": ["verb", "communication"],
-    "term": "Converse",
-    "pronunciation": "/kənˈvɜːrs/",
-    "definition": "To engage in conversation or dialogue with someone.",
-    "last_updated": "2023-05-29",
+    "category_tags": ["noun", "crypto"],
+    "term": "Cryptocurrency",
+    "pronunciation": "/krɪptoʊˈkʌrənsi/",
+    "definition": "A digital or virtual form of currency that relies on cryptography for secure financial transactions, control the creation of new units, and verify the transfer of assets.",
+    "last_updated": "2023-05-31",
     "repository": {
       "permalink": "https://github.com/ShibeMagazine/glossary",
-      "commit": "b5a4d8f",
+      "commit": "c080bc9",
       "license": "CC-BY-SA 4.0",
-      "wiki_permalink": "https://example.com/wiki"
+      "wiki_permalink": "https://github.com/ShibeMagazine/glossary/wiki/Cryptocurrency"
     }
   },
   {
