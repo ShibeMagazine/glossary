@@ -42,14 +42,14 @@ See 'Centraiized Exchange'
 ### Circulating Supply
 ### Codebase
 ### Coin
+A digital or virtual form of currency that operates on a blockchain or decentralized ledger technology.
+
 ### Coinbase
 ### CoinDays
 ### CoinDays Destroyed
 ### Cold Wallet
 ### Coloured Coin
 ### Cryptocurrency
-A digital or virtual form of currency that relies on cryptography to secure financial transactions, control the creation of new units, and verify the transfer of assets.
-
 ### Currency
 ### Custody
 
