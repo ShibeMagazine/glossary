@@ -30,10 +30,12 @@ if you have an addition or ammendment that you'd like to suggest, please create 
 
 Before submitting a pull request, please make sure your changes are consistent with the existing style and formatting of the glossary.
 
-Useful Tools
+Useful Resources
 ------------
 
 https://codebeautify.org/ is useful for converting Markdown to other formats.
+https://www.unifiedcompliance.com/education/how-to-write-definitions/ explains how to write definitions.
+
 
 ## License
 
